@@ -1,0 +1,19 @@
+{
+    "TITLE": "Schritt 5: Bericht über die Bewertungsergebnisse",
+    "INTRO": "Geben Sie zusätzliche Informationen zur Bewertung an, die im Bericht enthalten sein sollen. Die Bewertungsergebnisse, die Sie im vorherigen Schritt eingegeben haben, sind unten unter 'Detaillierte Prüfergebnisse' zur Überprüfung aufgeführt und helfen Ihnen beim Verfassen der Management-Zusammenfassung.",
+    "RESOURCE_LINK_NAME": "Schritt 5: Bericht über die Bewertungsergebnisse",
+    "LABEL_TITLE": "Berichtstitel",
+    "TITLE_PREFIX": "Bericht für",
+    "INF_TITLE": "Geben Sie einen Titel für den Barrierefreiheitsbewertungsbericht der Website an. Zum Beispiel:<br> 'Bewertungsbericht für Beispielorganisation'<br> 'Analyse der Barrierefreiheit des Webshops und Verbesserungsvorschläge'",
+    "LABEL_COMMISSIONER": "Auftraggeber der Bewertung",
+    "INF_COMMISSIONER": "Die Person, das Team, die Organisation, die interne Abteilung oder eine andere Einheit, die die Bewertung in Auftrag gegeben hat.",
+    "LABEL_CREATOR": "Bewertungsteam",
+    "INF_CREATOR": "Die Person, das Team, die Organisation, die interne Abteilung oder eine andere Einheit, die für die Durchführung der Bewertung verantwortlich ist.",
+    "LABEL_DATE": "Bewertungsdatum",
+    "INF_DATE": "Geben Sie das Abschlussdatum oder den Bewertungszeitraum an. Sie können jedes Datumsformat verwenden. Schreiben Sie den Monatsnamen aus, um Missverständnisse zu vermeiden. (Das Format 01-02-2022 ist mehrdeutig – es kann den 2. Januar oder den 1. Februar bedeuten, je nach Region.)",
+    "LABEL_SUMMARY": "Management-Zusammenfassung",
+    "INF_SUMMARY": "Geben Sie eine kurze Zusammenfassung der Bewertungsergebnisse, um einen Überblick über die Ergebnisse zu bieten. Beschreiben Sie beispielsweise die allgemeine Barrierefreiheit der Website sowie zentrale Beobachtungen, häufige Probleme und Muster, die während der Bewertung festgestellt wurden.",
+    "LABEL_SPECIFICS": "Aufzeichnung der Bewertungsspezifika (optional)",
+    "INF_SPECIFICS": "WCAG-EM empfiehlt, die geprüften Webseiten zu archivieren. Weitere Informationen finden Sie unter <a href={{link_em_5b}}>WCAG-EM Schritt 5.b: Aufzeichnung der Bewertungsspezifika</a>. Sie können dieses Textfeld nutzen, um die verwendeten Bewertungswerkzeuge, Webbrowser, assistiven Technologien, andere Software sowie Methoden der Bewertung zu dokumentieren. Die hier eingegebenen Informationen werden im generierten Bericht enthalten sein. Nach dem Herunterladen des Berichts können Sie diese Informationen in der HTML-Datei bearbeiten oder löschen, bevor Sie den Bericht weitergeben.",
+    "HD_CRITERIA_REPORT": "Detaillierte Prüfergebnisse"
+}

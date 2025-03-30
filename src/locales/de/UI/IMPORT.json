@@ -1,0 +1,14 @@
+{
+    "IMPORT": {
+        "HEADING": "Importiertes Ergebnis vom {IMPORT_DATE, date, ::yyyy/MM/dd} durch {AUTHOR}",
+        "TEST_PREFIX": "Test"
+    },
+    "ERROR": {
+        "JSONLD_SYNTAX": "Das Dateiformat wird nicht erkannt.",
+        "NO_ASSERTIONS": "Die Datei enthält keine erkennbaren Aussagen.",
+        "NO_COMPATIBLE_ASSERTIONS": "Keine der Aussagen in dieser Datei stimmt mit der ausgewählten Stichprobe überein.",
+        "FILE_ERROR": "Falsches Dateiformat oder beschädigte Datei."
+    },
+    "SUCCESSFUL": "Aussagen wurden den Beobachtungen auf dieser Seite hinzugefügt.",
+    "MORE_INFO": "Weitere Informationen zum Import von EARL als JSON"
+}

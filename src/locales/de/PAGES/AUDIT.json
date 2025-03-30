@@ -1,0 +1,21 @@
+{
+    "ASSERTION_RESULT_DESCRIPTION_LABEL": "Beobachtungen",  
+    "BTN_EXPAND_PAGES": "Zeige Webseiten, um einzelne Ergebnisse einzugeben",  
+    "HD_SAMPLE_SELECT": "Ergebnisse für Seiten hinzufügen",  
+    "HOW_TO": "So erfüllen Sie es",  
+    "INTRO": "Dokumentieren Sie das Ergebnis der Bewertung der zuvor ausgewählten Webseiten. Vergleichen Sie die Ergebnisse zwischen der strukturierten Seite und den zufällig ausgewählten Seiten und passen Sie gegebenenfalls die Auswahl im vorherigen Schritt an.",  
+    "IMPORT_DATA_INTRO": "Daten aus anderen (automatisierten) Tests hinzufügen",  
+    "RESOURCE_LINK_NAME": "Schritt 4: Das ausgewählte Sample prüfen",  
+    "LABEL_OUTCOME": "Ergebnis",  
+    "NO_SAMPLE": "Kein Sample verfügbar.",  
+    "RESULTS_FOR": "Ergebnisse für",  
+    "SAMPLE_FINDINGS": "Gesamtes Sample",  
+    "SELECT_ALL": "Alle auswählen",  
+    "TITLE": "Schritt 4: Das ausgewählte Sample prüfen",  
+    "UNDERSTAND": "Verständnis",  
+    "VIEW_IN_REPORT": "Im Bericht anzeigen",  
+    "LABEL_VERSION": "WCAG-Version",  
+    "LABEL_LEVEL": "Konformitätsstufe",  
+    "ADDED_IN": "Hinzugefügt in"  
+
+}
